@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahngaiwai.sparko.cz/sitemap.xml
